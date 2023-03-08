@@ -1,0 +1,6 @@
+Esto es un crud completo en laravel y jquery, tiene 3 tablas: CHEKCS/USUARIOS/CATEGORIAS
+Las categorias estan relacionadas con los checks y los usuarios estan solos tambien tienen un apartado para sabre si son usuarios admin o no
+Las migraciones funcionan pero hay que ir una por una, mejor insertar el sql entero.
+Todas las acciones de los cruds funcionan, tienen el js en el mismo html (no es una buena practica, pero de esta manera se entiende mejor)
+No tiene estilos, es basicamente para poder entender todo sin ningun tipo de molestia por los estilos.
+Si el archivo da error a copiarlo, puede que sea porque no existe el .env, porque no tiene permisos 777 o porque no tiene el "composer install"
